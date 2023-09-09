@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyGreenDAO.iml" filepath="$PROJECT_DIR$/MyGreenDAO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daoexamplegenerator/daoexamplegenerator.iml" filepath="$PROJECT_DIR$/daoexamplegenerator/daoexamplegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyGreenDAO.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.iml" filepath="$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/daoexamplegenerator/MyGreenDAO.daoexamplegenerator.test.iml" />
     </modules>
   </component>
 </project>
